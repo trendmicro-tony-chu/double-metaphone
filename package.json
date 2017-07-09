@@ -2,7 +2,7 @@
   "name": "double-metaphone-www",
   "private": true,
   "dependencies": {
-    "double-metaphone": "^1.0.0"
+    "double-metaphone": "^1.0.1"
   },
   "devDependencies": {
     "browserify": "^13.1.1"
