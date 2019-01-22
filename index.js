@@ -719,7 +719,7 @@ function doubleMetaphone(value) {
 
         if (next === 'H') {
           // Germanic.
-          if (hForS.test(value.slice(index + 1, index + 5))) {
+          if (hForS.test(value.slice(index + 2, index + 5))) {
             primary += 'S'
             secondary += 'S'
           } else {
